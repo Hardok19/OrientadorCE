@@ -40,7 +40,7 @@ carrera(filosofia,
     
 carrera(ingenieria_electrica, 
     [matematicas, fisica, tecnologia, precision], 
-    [sociales, sociales]).
+    [sociales, cocina]).
     
 carrera(arquitectura_urbanismo, 
     [arte, dibujo, matematicas, creatividad], 
